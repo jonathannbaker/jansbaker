@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Display Product Variation Metadata
-Description: Display product variation metadata in a formated meta box.
+Description: Display WooCommerce Product Variation metadata in a formatted meta box.
 Version:     1.0
 Author:      Scott Kennedy
-Author URI:  https://scottyzen.com]
+Author URI:  https://scottyzen.com
 */
 
 // check if woocommerce is active and if not, return
