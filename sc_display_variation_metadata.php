@@ -6,7 +6,6 @@ Plugin URI: https://github.com/scottyzen/display_variation_metadata
 Version:     1.0.1
 Author:      Scott Kennedy
 Author URI:  https://scottyzen.com
-Requires:   WooCommerce
 */
 
 // check if woocommerce is active and if not, return
