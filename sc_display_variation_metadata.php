@@ -73,6 +73,3 @@ function var_export_short($data, $return=true){
         echo $dump;
     }
 }
-?>
-
-
